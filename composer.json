@@ -4,6 +4,7 @@
   "keywords": ["ddd", "isolation", "PHP", "Domain"],
   "type": "library",
   "license": "MIT",
+  "minimun-stability": "stable"
   "authors": [
     {
       "name": "Teclai Zerai",
