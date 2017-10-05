@@ -1,6 +1,6 @@
 {
   "name": "zerai/biso",
-  "description": "A Business Domain Isolation Layer",
+  "description": "A Business Domain Isolation Layer bello",
   "keywords": ["ddd", "isolation", "PHP", "Domain"],
   "type": "library",
   "license": "MIT",
