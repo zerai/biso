@@ -1,5 +1,5 @@
 {
-  "name": "pvgomes/biso",
+  "name": "zerai/biso",
   "description": "A Business Domain Isolation Layer",
   "keywords": ["ddd", "isolation", "PHP", "Domain"],
   "type": "library",
