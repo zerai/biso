@@ -6,9 +6,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Paulo Victor Gomes",
-      "homepage": "https://github.com/pvgomes/biso",
-      "email": "pv.gomes89@gmail.com"
+      "name": "Teclai Zerai",
+      "homepage": "https://github.com/zerai/biso",
+      "email": "teclaizerai@gmail.com"
     }
   ],
   "require-dev": {
