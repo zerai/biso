@@ -4,11 +4,13 @@
   "keywords": ["ddd", "isolation", "PHP", "Domain"],
   "type": "library",
   "license": "MIT",
+  "minimun-stability": "stable",
   "authors": [
     {
       "name": "Teclai Zerai",
       "homepage": "https://github.com/zerai/biso",
-      "email": "pv.gomes89@gmail.com"
+      "email": "teclaizerai@gmail.com"
+
     }
   ],
   "require-dev": {
